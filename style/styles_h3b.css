@@ -1,0 +1,50 @@
+main{
+    background-color: #93b5c9;
+    height: 200px;
+    position: relative;
+    margin: 0px;
+
+}
+
+aside{
+    position: relative;
+    height: 400px;
+    margin: 0px;
+    background-color: #AB2849;
+
+}
+
+.L{
+    
+    position: static;      
+    display: block;
+    height: 150px;
+    width: 60%;  
+    background-color: #AB2849;
+    margin: 30px 300px 0px 400px;
+    
+    
+}
+.L1{
+    float: left;
+    height: 150px;
+    width: 30%;
+    background-color: #AB2849;
+    margin: 30px 10px 0px 400px;
+}
+
+.L2{
+    display: flex;
+    height: 150px;
+    width: 30%;
+    background-color: #AB2849;
+    margin: 30px 400px 0px 10px;
+}
+
+footer{
+    position: relative;
+    height: 200px;
+    margin-top: 30px;
+    background-color: #AB2849;
+
+}
